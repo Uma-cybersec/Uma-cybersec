@@ -5,7 +5,7 @@ I am Umamaheswari — Ethical Hacker & Penetration Tester
 ---
 
 ## 🧠 Certifications
-- 🏆 **CEH Masters** – Certified AppSec Hacker  
+- 🏆 **CEH Masters** – Certified Ethical Hacker
 - 🛡️ **PJPT** – Practical Guide to Penetration Testing *(in progress)*  
   
 ---
