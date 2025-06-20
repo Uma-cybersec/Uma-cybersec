@@ -1,16 +1,49 @@
 ## Hi there 👋
+I am Umamaheswari — Ethical Hacker & Penetration Tester
+ passionate about offensive security. I'm currently sharpening my skills through labs, certifications, and hands-on projects.
 
-<!--
-**Uma-cybersec/Uma-cybersec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🧠 Certifications
+- 🏆 **CEH Masters** – Certified AppSec Hacker  
+- 🛡️ **PJPT** – Practical Guide to Penetration Testing *(in progress)*  
+  
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔬 Labs in Progress
+I’m actively working through hands-on labs on:
+
+- [TryHackMe](https://tryhackme.com) 💻  
+  > Focusing entirely on TryHackMe for practical experience and real-world challenges.
+  Vuln Hubs
+- Hack this site
+- Port Swigger
+- Vuln Hub
+  
+---
+
+## 📁 Upcoming Projects
+As I progress through PJPT and TryHackMe, I plan to upload at least **10 practical projects**, including:
+- Exploits
+- Automation scripts
+- Enumeration tools
+- Vulnerability analysis
+- Real-world walkthroughs
+
+Stay tuned!
+
+---
+
+
+- Walkthroughs of the hardest TryHackMe rooms? Maybe 😉 — if I have time.
+
+> ⚠️ Hacking means NOT GIVE UP
+
+---
+
+## 📫 Let's Connect
+You can reach me on:
+- 🐱 GitHub: [github.com/yourusername](https://github.com/yourusername)
+
+
+
