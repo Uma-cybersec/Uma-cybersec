@@ -6,7 +6,8 @@ I am Umamaheswari — Ethical Hacker & Penetration Tester
 
 ## 🧠 Certifications
 - 🏆 **CEH Masters** – Certified Ethical Hacker
-- 🛡️ **PJPT** – Practical Guide to Penetration Testing *(in progress)*  
+- 🛡️ **PJPT** – Practical Guide to Penetration Testing
+-  Goals this year: PNPT, CPTS *(in progress)*  
   
 ---
 
@@ -15,9 +16,8 @@ I’m actively working through hands-on labs on:
 
 - [TryHackMe](https://tryhackme.com) 💻  
   > Focusing entirely on TryHackMe for practical experience and real-world challenges.
-  Vuln Hubs
-- Hack this site
-- Port Swigger
+  
+- Web Pentesting: Port Swigger || PicoCTF || hack this site
 - Vuln Hub
   
 ---
