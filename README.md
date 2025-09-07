@@ -10,7 +10,10 @@ I am Umamaheswari — Ethical Hacker & Penetration Tester & SOC Analyst
 -  Goals this year: PNPT, CPTS *(in progress)*  
   
 ---
-
+##Tryhackme  -- Paths completed
+- Junior Penetration Tester
+- SOC Level 1 path
+  
 ## 🔬 Labs in Progress
 I’m actively working through hands-on labs on:
 
@@ -19,6 +22,9 @@ I’m actively working through hands-on labs on:
   
 - Hack The Box
 - SOC analyst: Let's Defend
+
+  Pending:
+- CEH + OSINT + BHstuff
 - web: Port Swigger | Pico-CTF
   
 ---
@@ -36,6 +42,8 @@ Stay tuned!
 ## 📫 Let's Connect
 You can reach me on:
 - 🐱 GitHub: [github.com/yourusername](https://github.com/yourusername)
-
-
+- Discord -
+- Youtube -
+- website -
+I mostly active on Discord -- then linkedin, twitter, facebook other channels
 
